@@ -1,2 +1,2 @@
 # Escape (hyprland)
-A clean, dark, Hyprland rice 
+A clean Hyprland rice 
