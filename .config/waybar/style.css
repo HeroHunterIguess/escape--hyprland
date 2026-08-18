@@ -2,14 +2,14 @@
 .module {
     margin: 0 0px;
     padding: 2px 0px;
-    background-color: rgba(20, 20, 20, 0);
+    background-color: rgba(46, 39, 35, 0);
     border: none;
     color: #f0f0f0;
 }
 #waybar {
     border: none;
     color: #141414;
-    background-color: rgba(20, 20, 20, 0.7);
+    background-color: rgba(46, 39, 35, 0.7);
     font-family: "monospace";
     font-size: 12px;
 
@@ -24,7 +24,6 @@
 
 /* styling workspace switcher */
 #workspaces {
-    color: #dedfe5;
     transition: color 120ms ease;
 
     padding: 0px 0px;
@@ -36,12 +35,12 @@
     padding: 1px;
 }
 #workspaces button:hover {
-    background-color: rgba(54, 55, 62, 0.7);
+    background-color: rgba(84, 71, 64, 0.8);
     color: #ffffff;
     border-radius: 0px;
 }
 #workspaces button.active {
-    background-color: rgba(38, 38, 40, 0.7);
+    background-color: rgba(60, 54, 50, 0.7);
     color: #ffffff;
     border-radius: 0px;
 }
